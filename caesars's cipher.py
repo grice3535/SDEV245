@@ -1,4 +1,11 @@
-
+'''
+Program Name: Caeser's Cipher
+Author: Gillian Rice
+Date: November 9, 2025
+Description:
+    This program runs the caesar cipher and shifts the text by 4 and then decryts it.
+    It shows what the message looks like from the begging to the end.
+'''
 
 alphabets = 'abcdefghijklmnopqrstuvwxyz'
 shift = 4
